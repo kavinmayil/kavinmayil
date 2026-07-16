@@ -1,161 +1,61 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="KavinMayil Banner"/>
+<img src="./banner.svg" alt="Kavinmayil — AI Engineer, Python Developer, IoT Innovator, Founder of MiniBotix" width="100%"/>
 
-<br><br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=KavinMayil;AI+Engineer;Python+Developer;IoT+Innovator;Building+The+Future+One+Project+At+A+Time"/>
-
-<br>
-
-<a href="mailto:kavinmayil123@gmail.com">
-<img src="https://img.shields.io/badge/Email-B71C1C?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
-</a>
-
-<a href="https://github.com/KavinMayil">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFD700"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=KavinMayil&style=for-the-badge&color=B71C1C&labelColor=111111"/>
-
-<br><br>
-
-> **"Build. Learn. Repeat."**
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-00B386?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://minibotix.example.com"><img src="https://img.shields.io/badge/MiniBotix-000000?style=for-the-badge&logo=vercel&logoColor=00FFB2" /></a>
+<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-# JARVIS SYSTEM INITIALIZED
+### 👋 About me
 
-```python
-class KavinMayil:
+I build AI systems, IoT hardware, and the software that connects them — currently running **MiniBotix**, a startup focused on applying practical AI and robotics to real-world problems like agriculture intelligence.
 
-    def __init__(self):
+- 🧠 **AI Engineer** — LLM architectures, applied ML pipelines
+- 🐍 **Python Developer** — backend systems, automation, data engineering
+- 📡 **IoT Innovator** — ESP32 / sensor networks / edge devices
+- 🚀 **Founder of MiniBotix** — building AI that solves real problems
 
-        self.role = "AI Engineer"
+<br/>
 
-        self.language = [
-            "Python",
-            "C",
-            "SQL"
-        ]
+### ⚙️ Tech Stack
 
-        self.specialization = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "LLMs",
-            "IoT",
-            "Computer Vision",
-            "Automation"
-        ]
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</div>
 
-        self.current_focus = [
-            "Large Language Models",
-            "FastAPI",
-            "RAG",
-            "Embedded AI",
-            "Cloud"
-        ]
+<br/>
 
-        self.status = "ONLINE"
-
-    def motto(self):
-        return "Building technology that solves real-world problems."
-```
-
----
-
-# Tech Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,fastapi,flask,tensorflow,pytorch,docker,git,github,vscode,linux,arduino,mysql,postgres,sqlite,html,css,js"/>
-
-</p>
-
----
-
-# Current Mission
-
-```text
-AI Systems
-Python Automation
-Machine Learning
-IoT Devices
-Backend APIs
-Computer Vision
-Data Engineering
-Problem Solving
-```
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=KavinMayil&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=B71C1C&text_color=FFFFFF&bg_color=000000"/>
-
-<img width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=KavinMayil&theme=transparent&hide_border=true&ring=FFD700&fire=B71C1C&currStreakLabel=FFD700&background=000000"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="50%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinMayil&layout=compact&hide_border=true&theme=transparent&title_color=FFD700&text_color=FFFFFF&bg_color=000000"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=KavinMayil&theme=react-dark&hide_border=true&bg_color=000000&color=FFD700&line=B71C1C&point=FFD700"/>
-
-</p>
-
----
-
-# GitHub Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/KavinMayil/KavinMayil/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# System Status
-
-| Module | Status |
-|---------|--------|
-| Python | ONLINE |
-| AI | ONLINE |
-| Machine Learning | ONLINE |
-| IoT | ONLINE |
-| Automation | ONLINE |
-| Learning | ALWAYS ACTIVE |
-
----
+### 📊 GitHub Activity
 
 <div align="center">
 
-# ⚡ J.A.R.V.I.S.
+<img src="https://github-readme-stats.vercel.app/api?username=kavinmayil&show_icons=true&theme=react&hide_border=true&bg_color=05070d&title_color=00d4ff&icon_color=00ffb2&text_color=cfe7f5" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinmayil&theme=react&hide_border=true&background=05070d&ring=00d4ff&fire=00ffb2&currStreakLabel=00d4ff" height="165"/>
 
-### Artificial Intelligence • Python • IoT
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinmayil&layout=compact&theme=react&hide_border=true&bg_color=05070d&title_color=00d4ff&text_color=cfe7f5" height="165"/>
 
-### "Every project is another suit in the workshop."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinmayil&theme=react-dark&hide_border=true&bg_color=05070d&color=00d4ff&line=00ffb2&point=ffffff" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,FFD700&height=120&section=footer"/>
+</div>
 
+<br/>
+
+<div align="center">
+<sub>Building AI that Solves Real Problems.</sub>
 </div>
